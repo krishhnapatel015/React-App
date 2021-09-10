@@ -1,0 +1,11 @@
+.header {
+    padding: 25px 0;
+    background: rgb(95, 81, 224);
+  }
+
+  
+  .foodLogo {
+    margin-left: 15px;
+    display: flex;
+  }
+  
